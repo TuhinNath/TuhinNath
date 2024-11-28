@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">This is Tuhin Nath, A dedicated final year student pursuing a BSc. Hons. in Economics at Calcutta University. My journey extends far beyond the classroom as I immerse myself in the world of analytics. In this realm, I specialize in data science and data analytics, harnessing the power of Python, R, SQL, Excel, and visualization tools such as Power BI and Tableau besides my social communication skills. I've also delved into the fascinating field of Machine Learning, consistently working on intriguing projects and internships in these domains.</h6>
+<h6 align="left">This is Tuhin Nath, currently pursuing MA Economics at Jadavpur University. My journey extends far beyond the classroom as I immerse myself in the world of analytics. In this realm, I specialize in data science and data analytics, harnessing the power of Python, R, SQL, Excel, and visualization tools such as Power BI and Tableau besides my social communication skills. I've also delved into the fascinating field of Machine Learning, consistently working on intriguing projects and internships in these domains.</h6>
 
 ###
 
